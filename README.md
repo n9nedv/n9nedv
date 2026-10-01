@@ -21,7 +21,7 @@ I'm a solo builder figuring things out as I go. I love working with AI, experime
 - Writing code daily, figuring out how backends and scripts actually work, and attempting to build practical utilities that solve real problems.
 
 ### Get in Touch
-- **Email:** `n9nedv@proton.me`
+- **Email:** ``n9nedv@proton.me``
 - **GitHub:** [github.com/n9nedv](https://github.com/n9nedv)
 
 ---
