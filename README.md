@@ -1,6 +1,6 @@
 <div align="center">
 
-# `n9ne dev`
+# `n9nedv`
 
 > *Building the future with AI, and learning a little bit of coding along the way.*
 
@@ -8,7 +8,7 @@
 
 </div>
 
-### Hey there, I'm `n9ne` 👋
+### Hey there, I'm `n9nedv` 👋
 
 I'm a solo builder figuring things out as I go. I love working with AI, experimenting with local and privacy-first setups, and learning how to code by actually building real things instead of just reading tutorials.
 
